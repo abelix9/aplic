@@ -15,6 +15,8 @@ public class abel extends javax.swing.JFrame {
      */
     public abel() {
         initComponents();
+        
+        int a=3;
     }
 
     /**
